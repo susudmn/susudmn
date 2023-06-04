@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susudmn
+👋 Hi, I’m @susudmn
 - 👀 I’m interested in travel,life and programming...
 - 🌱 I’m currently learning Front-end knowledge
 - 💞️ I pursue Spiritual independence, personality independence, economic independence
